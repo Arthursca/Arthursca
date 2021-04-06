@@ -2,6 +2,9 @@
 
 My name is Arthur Scanoni and i am a student Rural Federal University of Pernambuco (UFRPE)
 
+## :clipboard: My activities
+<img src="https://github-readme-stats.vercel.app/api?username=arthursca&count_private=true&show_icons=true&theme=react" alt="Arthur Scanoni' GitHub Stats">
+
 ## :iphone:Contacts
 [![Linkedin Badge](https://img.shields.io/badge/-Arthur_Scanoni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-scanoni-6b796b194/)](https://www.linkedin.com/in/arthur-scanoni-6b796b194/)
 
@@ -21,8 +24,7 @@ Learning: Ruby, R
 * Delivery app (unofficial name) (a java program that will show my version of a ideal delivery app)
 * Recognize pet(unofficial name) (a IA project in python that will recognize which animal in the image)
 
-## :clipboard: My activities
-<img src="https://github-readme-stats.vercel.app/api?username=arthursca&count_private=true&show_icons=true&theme=react" alt="Arthur Scanoni' GitHub Stats">
+
 <!--
 **Arthursca/Arthursca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
