@@ -12,7 +12,7 @@ My name is Arthur Scanoni and i am a student Rural Federal University of Pernamb
 
 Skills: C, Python, SQL, Java.
 
-Learning: Ruby, R
+Learning: 
 
 ## :books: Personal Projects
 
@@ -21,8 +21,6 @@ Learning: Ruby, R
 * ![Sort.h](https://github.com/Arthursca/Sort.h) (Currently in version 1.0)
 
 ### :closed_book: TODO
-* Delivery app (unofficial name) (a java program that will show my version of a ideal delivery app)
-* Recognize pet(unofficial name) (a IA project in python that will recognize which animal in the image)
 
 
 <!--
